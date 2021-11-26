@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    align-items: center;
+    background-color: rgba(100, 150, 200, 0.2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+
+}
+li {
+    text-align: left;
+}
