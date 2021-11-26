@@ -1,0 +1,24 @@
+*{
+    border: blue;
+    background-color: rgba(117, 190, 218, 0.1);
+  
+}
+h1 {
+    color:black;
+    text-align: center;
+    font-size: 72px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+ul {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+   
+ }
+ a{
+     color: rgb(0, 0, 0);
+     text-align: center;
+ }
+
+
